@@ -12,7 +12,7 @@ var svgColor = function()
 	$('#r5').css('color', randomColor());
 	$('#r6').css('color', randomColor());
 	/* Timer for 7 seconds */
-	window.setTimeout(svgColor, 7000);
+	window.setTimeout(svgColor, 8000);
 }
 /* The svgColor function will randomily change the shape color fill */
 svgColor();  

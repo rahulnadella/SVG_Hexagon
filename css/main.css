@@ -1,4 +1,5 @@
-html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, b, ul, ol, li, section {
+/* Define the default style for general elements */
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, strong, ul, ol, li, section {
   margin: 0;
   padding: 0;
   border: 0;
