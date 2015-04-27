@@ -1,8 +1,15 @@
 # SVG_Hexagon
 
+A simple example of Scalable Vector Graphics (SVG) in which hexagons are created on the screen and they animate through a ripple effect. 
+
+#####Build
+>Frameworks -> [randomColor.js](https://github.com/davidmerfield/randomColor)
+
 ###Output
 
-###Contribution
+The final output of the SVG example is:
+
+<img src="https://github.com/rahulnadella/SVG_Hexagon/blob/master/assets/svgHexagonExample.gif" alt="SVG Hexagon Ripple" width="400" height="400" />
 
 ###License
 
