@@ -19,26 +19,6 @@ body {
   font: normal 1em / 1.33em 'Karla', sans-serif;
 }
 
-path#r1 {
-  fill: currentColor;
-}
-
-path#r2 {
-	fill: currentColor;
-}
-
-path#r3 {
-	fill: currentColor;
-}
-
-path#r4 {
-	fill: currentColor;
-}
-
-path#r5 {
-	fill: currentColor;
-}
-
-path#r6 {
+path#r1, #r2, #r3, #r4, #r5, #r6 {
 	fill: currentColor;
 }
