@@ -7,6 +7,8 @@ A simple example of Scalable Vector Graphics (SVG) in which hexagons are created
 
 ###Output
 
+The SVG Hexagon Example uses a javascript library called randomColor.js to generate a random color to be fill the specific path.
+
 The final output of the SVG example is:
 
 <img src="https://github.com/rahulnadella/SVG_Hexagon/blob/master/assets/svgHexagonExample.gif" alt="SVG Hexagon Ripple" width="400" height="400" />
