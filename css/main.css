@@ -1,0 +1,45 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, b, ul, ol, li, section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  position: relative;
+  -webkit-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+  box-sizing: border-box; 
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  width:  100%;
+  height: 100%;
+  margin: 0px;
+  font: normal 1em / 1.33em 'Karla', sans-serif;
+}
+
+path#r1 {
+  fill: currentColor;
+}
+/*
+path#r2 {
+	fill: currentColor;
+}
+
+path#r3 {
+	fill: currentColor;
+}
+
+path#r4 {
+	fill: currentColor;
+}
+
+path#r5 {
+	fill: currentColor;
+}
+
+path#r6 {
+	fill: currentColor;
+}
+*/
