@@ -1,0 +1,26 @@
+{
+  "name": "svg_example",
+  "version": "1.0.0",
+  "description": "A simple example of Scalable Vector Graphics (SVG) in which hexagons are created on the screen and they animate through a ripple effect and are filled with a random color using a 7 second interval.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahulnadella/SVG_Hexagon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulnadella/SVG_Hexagon/issues"
+  },
+  "homepage": "https://github.com/rahulnadella/SVG_Hexagon",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-express": "^1.4.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
